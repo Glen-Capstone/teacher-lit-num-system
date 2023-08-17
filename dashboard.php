@@ -1,21 +1,16 @@
-<html style="height: auto; min-height: 100%;">
+<html lang="en" style="height: auto;" class=""><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Teacher | Portal</title>
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Teacher Portal</title>
-
-    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-
-    <?php 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&amp;display=fallback">
+<?php 
         include_once("bootstrap/style.php");
     ?>
-    
-</head>
 
-<body class="skin-yellow layout-top-nav" style="height: auto; min-height: 100%;" data-new-gr-c-s-check-loaded="14.1117.0"
-    data-gr-ext-installed="">
-    <div class="wrapper" style="height: auto; min-height: 100%;">
+</head>
+<body class="layout-top-nav layout-footer-fixed layout-navbar-fixed" style="height: auto;" data-new-gr-c-s-check-loaded="14.1120.0" data-gr-ext-installed="">
+<div class="wrapper" style="height: auto; min-height: 100%;">
         <?php 
             include_once("CommonEssentials/header.php");
         ?>
